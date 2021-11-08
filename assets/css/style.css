@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   right: 10px;
   bottom: 0;
   height: 1px;
-  background-color: #484644;
+  background-color: #fff;
 }
 .filters a.active {
   color: #000;
